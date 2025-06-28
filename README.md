@@ -1,6 +1,6 @@
 # Hi, I'm Bernardusz!
 
-- 🔭 9th Grader heading into Vocational High School
+- 🔭 10th Grader from Catholic Vocational High School of St. Louis
 - 🧠 Learning Python, C++, JavaScript
 - 💻 Future Full-Stack & Cybersecurity Engineer
 - 🇮🇩 From Indonesia | Dreaming big for Hungary 🇭🇺 !
