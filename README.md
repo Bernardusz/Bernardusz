@@ -23,8 +23,8 @@
 
 ## Connect with me:
 💻 Wanna collab or just say hi? Let's grow together! 🔥
-- **Portfolio:** [bernardusz-dev.vercel.app](https://bernardusz-dev.vercel.app/)[cite: 1]
-- **Email:** b.christian.nugroho.study@gmail.com[cite: 1]
+- **Portfolio:** [bernardusz-dev.vercel.app](https://bernardusz-dev.vercel.app/)
+- **Email:** b.christian.nugroho.study@gmail.com
 
 ---
 
