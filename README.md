@@ -16,8 +16,8 @@
 ---
 
 ## 📌 Featured Projects
-- **[Levtus - HTTP/1.1 Engine](https://github.com/Bernardusz/levtus):** A JVM-Based HTTP/1.1 engine and backend framework built from scratch in Java 25 using Virtual Threads (Project Loom) with a Trie-Based Router[cite: 1].
-- **[Secure CMS](https://github.com/Bernardusz/content-management-system/):** Content management system built using Analog.js, Spring Boot, and PostgreSQL, implementing advanced token encryption and security filters[cite: 1].
+- **[Levtus - HTTP/1.1 Engine](https://github.com/Bernardusz/levtus):** A JVM-Based HTTP/1.1 engine and backend framework built from scratch in Java 25 using Virtual Threads (Project Loom) with a Trie-Based Router.
+- **[Secure CMS](https://github.com/Bernardusz/content-management-system/):** Content management system built using Analog.js, Spring Boot, and PostgreSQL, implementing advanced token encryption and security filters.
 
 ---
 
